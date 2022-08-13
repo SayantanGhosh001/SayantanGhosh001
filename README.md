@@ -1,9 +1,5 @@
 ### Hi 👋, I'm Sayantan Ghosh 👋
 
-<!--
-**SayantanGhosh001/SayantanGhosh001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 🌱 I’m currently learning ReactJs
@@ -14,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me on LinkedIn:-https://www.linkedin.com/in/sayantan-ghosh-311b36222/ ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
