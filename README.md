@@ -1,6 +1,6 @@
 <h1 align="center" style="color:red;text-align:center;">Hi 👋, I'm Sayantan Ghosh</h1>
 <!-- ********************************************** -->
-
+<img align="center" src="https://sayantanghosh001.github.io/name-style/">
 <!-- ********************************************************** -->
 <h3 align="center">A frontend developer by passion,Problem solver by soul,Street smart by brain and a life long learner by heart.</h3>
 
