@@ -1,4 +1,4 @@
-<h1 align="center" style="color:red">Hi 👋, I'm Sayantan Ghosh</h1>
+<h1  style="color:red;text-align:center;">Hi 👋, I'm Sayantan Ghosh</h1>
 <h3 align="center">A frontend developer by passion,Problem solver by soul,Street smart by brain and a life long learner by heart.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantanghosh001&label=Profile%20views&color=0e75b6&style=flat" alt="sayantanghosh001" /> </p>
