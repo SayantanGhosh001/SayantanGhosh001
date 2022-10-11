@@ -1,6 +1,7 @@
 <h1 align="center" style="color:red;text-align:center;">Hi 👋, I'm Sayantan Ghosh</h1>
 <!-- ********************************************** -->
-<foreignObject xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 800 100" width="800" height="100">
+	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				@keyframes gradientText {
@@ -59,6 +60,7 @@
       <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
 		</div>
 	</foreignObject>
+</svg>
 <!-- ********************************************************** -->
 <h3 align="center">A frontend developer by passion,Problem solver by soul,Street smart by brain and a life long learner by heart.</h3>
 
