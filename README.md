@@ -1,7 +1,7 @@
 
 <img align="center" src="name.svg" alt="fxsdx" height="100%" width="100%" />
 <h1 align="center" style="color:red;text-align:center;">Hey 👋</h1>
-<h3 align="center">A frontend developer by passion,Problem solver by soul,Street smart by brain and a life long learner by heart.</h3>
+<h3 align="center">A MERN stack developer by passion,Problem solver by soul,Street smart by brain and a life long learner by heart.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantanghosh001&label=Profile%20views&color=0e75b6&style=flat" alt="sayantanghosh001" /> </p>
 
@@ -12,6 +12,8 @@
 - 💬 Ask me about **Javascript,HTML & CSS**
 
 - 📫 How to reach me on LinkedIn **https://www.linkedin.com/in/sayantan-ghosh-311b36222/**
+
+- 📫 How to reach me on Gmail **thesayantanghosh@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
