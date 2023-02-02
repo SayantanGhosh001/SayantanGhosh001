@@ -7,9 +7,9 @@
 
 - 🔭 I’m interested in **Web Development**
 
-- 🌱 I’m currently learning **ReactJs**
+- <!--🌱 I’m currently learning **** -->
 
-- 💬 Ask me about **Javascript,HTML & CSS**
+- 💬 Ask me about **Javascript,HTML,CSS & MERN**
 
 - 📫 How to reach me on LinkedIn **https://www.linkedin.com/in/sayantan-ghosh-311b36222/**
 
