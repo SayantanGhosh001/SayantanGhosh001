@@ -7,7 +7,7 @@
 
 - 🔭 I’m interested in **Web Development**
 
-- <!--🌱 I’m currently learning **** -->
+<!-- - 🌱 I’m currently learning **** -->
 
 - 💬 Ask me about **Javascript,HTML,CSS & MERN**
 
