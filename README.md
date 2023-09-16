@@ -1,5 +1,4 @@
 <img align="center" src="name.svg" alt="fxsdx" height="100%" width="100%" />
-<h1 align="center" style="color:red;text-align:center;">Hey 👋</h1>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sayantan+Ghosh!;" />
 </h1>
