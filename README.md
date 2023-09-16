@@ -2,7 +2,7 @@
 
 <img align="center" src="name.svg" alt="fxsdx" height="100%" width="100%" />
 <h1 align="center" style="color:red;text-align:center;">Hey 👋</h1>
-<h3 align="center" style="background: url('https://github.com/SayantanGhosh001/SayantanGhosh001/blob/main/banner.png') center center cover no-repeat fixed;">A MERN stack developer by passion,Problem solver by soul,Street smart by brain and a life long learner by heart.</h3>
+<h3 align="center" [![logo](https://github.com/SayantanGhosh001/SayantanGhosh001/blob/main/banner.png)](https://github.com/SayantanGhosh001/SayantanGhosh001/blob/main/banner.png)>A MERN stack developer by passion,Problem solver by soul,Street smart by brain and a life long learner by heart.</h3>
 <img align="right" alt="Coding" width="330" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantanghosh001&label=Profile%20views&color=0e75b6&style=flat" alt="sayantanghosh001" /> </p>
 
