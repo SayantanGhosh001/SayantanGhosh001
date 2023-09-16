@@ -1,4 +1,4 @@
-[![Responsive Full Background Image](http://cdn.sixrevisions.com/0431-02_responsive_background_demo_ss.jpg)](https://github.com/SayantanGhosh001/SayantanGhosh001/blob/main/banner.png)
+[![Responsive Full Background Image](https://github.com/SayantanGhosh001/SayantanGhosh001/blob/main/banner.png)](https://github.com/SayantanGhosh001/SayantanGhosh001/blob/main/banner.png)
 
 <img align="center" src="name.svg" alt="fxsdx" height="100%" width="100%" />
 <h1 align="center" style="color:red;text-align:center;">Hey 👋</h1>
