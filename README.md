@@ -1,8 +1,9 @@
-[![logo](https://github.com/SayantanGhosh001/SayantanGhosh001/blob/main/banner.png)](https://github.com/SayantanGhosh001/SayantanGhosh001/blob/main/banner.png)
-
 <img align="center" src="name.svg" alt="fxsdx" height="100%" width="100%" />
 <h1 align="center" style="color:red;text-align:center;">Hey 👋</h1>
-<h3 align="center" [![logo](https://github.com/SayantanGhosh001/SayantanGhosh001/blob/main/banner.png)](https://github.com/SayantanGhosh001/SayantanGhosh001/blob/main/banner.png)>A MERN stack developer by passion,Problem solver by soul,Street smart by brain and a life long learner by heart.</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sayantan+Ghosh!;" />
+</h1>
+<h3 align="center">A MERN stack developer by passion,Problem solver by soul,Street smart by brain and a life long learner by heart.</h3>
 <img align="right" alt="Coding" width="330" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantanghosh001&label=Profile%20views&color=0e75b6&style=flat" alt="sayantanghosh001" /> </p>
 
