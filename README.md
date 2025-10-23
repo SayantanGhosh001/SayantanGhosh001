@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sayantan+Ghosh!;" />
 </h1>
 
-<h4 align="center">A passionate Software Developer with strong analytical skills and a focus on building scalable, efficient, and maintainable solutions using modern technologies.</h4>
+<h3 align="center">A passionate Software Developer with strong analytical skills and a focus on building scalable, efficient, and maintainable solutions using modern technologies.</h3>
 <!-- <img align="right" alt="Coding" width="330" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantanghosh001&label=Profile%20views&color=0e75b6&style=flat" alt="sayantanghosh001" /> </p>
 
