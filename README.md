@@ -5,7 +5,7 @@
 
 <h3 align="center">A MERN stack developer by passion,Problem solver by soul,Street smart by brain and a life long learner by heart.</h3>
 <img align="right" alt="Coding" width="330" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantanghosh001&label=Profile%20views&color=0e75b6&style=flat" alt="sayantanghosh001" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantanghosh001&label=Profile%20views&color=0e75b6&style=flat" alt="sayantanghosh001" /> </p> -->
 
 - 🔭 I’m interested in **Web Development**
 
